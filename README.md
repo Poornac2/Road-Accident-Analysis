@@ -23,7 +23,7 @@ To address this challenge, I designed and developed an **interactive Microsoft E
 
 ## 🖼️ Dashboard Preview
 
-
+<img src = "https://github.com/Poornac2/Road-Accident-Analysis/blob/main/Screenshot%202026-02-21%20214121%20Road.png">
 
 ## 🎯 Project Objectives
 
