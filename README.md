@@ -1,4 +1,3 @@
-Perfect 👍 Poorna Chandra — here is your **refined, professional, recruiter-ready Premium Portfolio Case Study Version**, polished in a clean storytelling format suitable for **Portfolio Website / Notion / GitHub Case Study Section**.
 
 ---
 
