@@ -1,192 +1,95 @@
+# 🚦 Road Accident Analysis Dashboard (Microsoft Excel)
+
+Transforming Raw Accident Data into Actionable Road Safety Insights
+
+![Road Accident Dashboard](Screenshot%202026-02-21%20214121%20Road.png)
 
 ---
 
-# 🚦 Road Accident Analysis Dashboard
+# 📌 Project Background
 
-### Transforming Raw Accident Data into Actionable Road Safety Insights
+Road accidents remain one of the leading causes of injuries and fatalities worldwide. Analyzing accident data helps identify accident patterns, high-risk locations, vehicle involvement, and environmental factors that contribute to road accidents.
 
----
-
-## 📌 Project Background
-
-Road accidents continue to be a significant public safety issue, resulting in thousands of injuries and fatalities annually. However, raw data alone cannot guide effective decision-making. Authorities and stakeholders require structured, visual, and insight-driven analysis to answer critical questions:
-
-* Which road types are most dangerous?
-* Which vehicles contribute most to casualties?
-* How do environmental conditions influence accidents?
-* Are accident trends improving year-over-year?
-
-To address this challenge, I designed and developed an **interactive Microsoft Excel dashboard** that converts complex accident data into clear, executive-level insights.
+This project presents an interactive **Road Accident Analysis Dashboard** built using Microsoft Excel. The dashboard transforms raw accident data into meaningful visual insights that support better road safety planning and decision-making.
 
 ---
 
-## 🖼️ Dashboard Preview
+# 🎯 Project Objectives
 
-<img src = "https://github.com/Poornac2/Road-Accident-Analysis/blob/main/Screenshot%202026-02-21%20214121%20Road.png">
-
-## 🎯 Project Objectives
-
-* Analyze total casualties and severity distribution
-* Compare accident trends between 2021 and 2022
-* Identify high-risk road types
-* Examine environmental factors (road surface & light conditions)
-* Compare urban and rural accident patterns
-* Develop an interactive decision-support dashboard
+- Analyze overall road accident statistics.
+- Identify accident severity distribution.
+- Compare accidents by vehicle type.
+- Analyze accidents based on road conditions.
+- Build an interactive dashboard for accident analysis.
 
 ---
 
-## 📊 Dataset Overview
+# 📊 Dashboard Highlights
 
-The dataset includes multi-dimensional accident records segmented by:
-
-* Severity Level (Fatal, Serious, Slight)
-* Vehicle Type
-* Road Type
-* Road Surface Condition
-* Light Condition
-* Urban/Rural Area
-* Year and Month
-
-**Total Records Analyzed:** 417,883 Casualties
-
----
-
-# 🔎 Analytical Approach
-
-## 1️⃣ Data Cleaning & Preparation
-
-* Removed null and inconsistent entries
-* Standardized category labels
-* Created calculated columns for KPI measurement
-* Structured data using Pivot Tables for aggregation
+- Total Casualties
+- Total Accidents
+- Fatal Casualties
+- Serious Casualties
+- Slight Casualties
+- Vehicle Type Analysis
+- Road Type Analysis
+- Road Surface Analysis
+- Light Condition Analysis
+- Urban vs Rural Analysis
+- Monthly Accident Trends
+- Interactive Filters (Slicers)
 
 ---
 
-## 2️⃣ KPI Development
+# 🛠 Tools & Skills Used
 
-Designed high-level KPI cards to provide immediate executive insight:
-
-* 🚨 Total Casualties
-* 🔴 Fatal Percentage
-* 🟠 Serious Percentage
-* 🟢 Slight Percentage
-* 🚗 Car Involvement Percentage
-
-This structure ensures quick understanding before deeper exploration.
-
----
-
-## 3️⃣ Dimensional Analysis
-
-Performed segmented analysis across:
-
-* Road Type vs Casualties
-* Vehicle Type Contribution
-* Road Surface & Light Conditions
-* Urban vs Rural Distribution
-
-Interactive slicers allow dynamic filtering for better exploration.
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Conditional Formatting
+- Data Cleaning
+- Dashboard Design
+- KPI Cards
 
 ---
 
-## 4️⃣ Trend Analysis
+# 📈 Key Business Insights
 
-* Monthly comparison between 2021 and 2022
-* Identification of peak accident months
-* Seasonal trend evaluation
-
----
-
-# 📈 Key Findings & Business Insights
-
-## 🚗 1. Cars Dominate Accident Involvement
-
-**79.8% of total casualties involve cars.**
-
-**Insight:**
-Safety campaigns and regulatory measures should prioritize private vehicle drivers, as they represent the largest risk segment.
+- Identified accident severity trends.
+- Compared casualties across different vehicle types.
+- Analyzed accident distribution by road type and surface condition.
+- Evaluated accident patterns under different lighting conditions.
+- Visualized monthly accident trends for better planning.
+- Created KPI cards for quick accident analysis.
 
 ---
 
-## 🛣️ 2. Single Carriageways Are High-Risk
+# 💼 Business Value
 
-**309.7K casualties occurred on single carriageways.**
+This dashboard helps organizations to:
 
-**Insight:**
-Infrastructure redesign, improved lane separation, and enhanced traffic monitoring could significantly reduce accidents.
-
----
-
-## 🌤️ 3. Most Accidents Occur on Dry Roads
-
-Dry road conditions account for the highest number of casualties.
-
-**Insight:**
-Driver behavior, traffic density, and human error play a greater role than weather conditions in accident occurrence.
+- Monitor road accident trends.
+- Identify high-risk accident factors.
+- Support road safety improvement initiatives.
+- Enable data-driven transportation planning.
+- Improve accident reporting through interactive visualizations.
 
 ---
 
-## 🏙️ 4. Urban Areas Show Higher Accident Volume
+# 📂 Project Files
 
-* Urban: 255.9K casualties
-* Rural: 162K casualties
-
-**Insight:**
-Higher traffic congestion and population density significantly increase accident frequency in urban zones.
+- Road Accident Dashboard.xlsx
+- Screenshot 2026-02-21 214121 Road.png
+- README.md
 
 ---
 
-## 🌙 5. Daylight Accidents Are Higher
+# 👨‍💻 Author
 
-* Daylight: 305K
-* Dark: 112.9K
+**Poorna Chandra**
 
-**Insight:**
-Accident frequency is influenced more by traffic exposure than by poor visibility conditions.
+Aspiring Data Analyst
 
----
-
-## ⚠️ 6. Fatalities: Small Percentage, High Impact
-
-**1.7% fatal rate equals 7,135 deaths.**
-
-**Insight:**
-Even marginal improvements in road safety could prevent thousands of fatalities.
-
----
-
-# 🛠️ Tools & Techniques
-
-* Microsoft Excel
-* Pivot Tables & Pivot Charts
-* Interactive Slicers
-* KPI Cards
-* Conditional Formatting
-* Dashboard Layout & UI Structuring
-* Data Aggregation & Segmentation
-
----
-
-# 💡 Business Recommendations
-
-Based on the analysis:
-
-* Improve infrastructure design on single carriageways
-* Strengthen urban traffic enforcement policies
-* Conduct targeted safety campaigns for car drivers
-* Implement seasonal road safety awareness programs
-* Enhance rural night-time visibility systems
-
----
-
-# 🚀 Project Impact
-
-This dashboard supports:
-
-* Faster and clearer executive decision-making
-* Risk-based road improvement planning
-* Evidence-driven policy recommendations
-* Structured, visual reporting for stakeholders
-
----
+📧 Open to Data Analyst Internship & Full-Time Opportunities
 
